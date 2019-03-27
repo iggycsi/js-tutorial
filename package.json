@@ -1,0 +1,25 @@
+{
+  "name": "naracajoddoma",
+  "version": "1.0.0",
+  "description": "naracki od doma ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "naracka",
+    "naracki",
+    "od",
+    "doma"
+  ],
+  "author": "Iggy CSI",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {}
+}

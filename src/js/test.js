@@ -1,2 +1,2 @@
-console.log('print someting else ');
-export default 23
+console.log("print someting else ");
+module.exports = 16;

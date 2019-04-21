@@ -27,6 +27,8 @@
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
+    "@embroider/babel-loader-7": "^0.3.3",
+    "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0"
   }
 }
